@@ -1,0 +1,2 @@
+# clinic-appointment-system-using-datastructures
+This application is created for maintaining the appointment of visitors in a clinic and it also dynamically uses the system time and made the token to get expired after the allocated time. This application is developed by using data structures called "STACK and QUEUE". It also maintains waiting list queue and aims to solves the problems in appointment management system effectively
